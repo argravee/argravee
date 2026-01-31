@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**argravee/argravee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nasar a Computer Science & Philsosphy student at the University of Saskatchewan
 
-Here are some ideas to get you started:
+I enjoy building tools that really help people especially in areas where where problems are well understood but progress is constrained by institutional, political, and administrative complexity/inaction. I also love challenging myself with technically demanding and abstract systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I’m currently working on
+
+* Backend and systems-focused projects (APIs, data models, correctness,protocols)
+* Quantam computing benchamrker
+* Developing NLP-based tools for public health analysis and decision support
+* Fullstack web-applications for nonprofit organizations
+
+---
+
+## 🛠️ Tools & skills
+
+**Languages**
+
+* Python, Javascript, SQL, Java
+
+**Backend & Systems**
+
+* FastAPI, Flask, REST APIs, MySQL
+* JSON Schema, OpenAPI 3.1
+
+**Security & Privacy**
+
+* Homomorphic Encryption (CKKS)
+* Pyfhel, encrypted inference workflows
+
+**Frontend**
+
+* Tailwind CSS, Jinja, React
+
+
+
