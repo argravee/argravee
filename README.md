@@ -1,4 +1,4 @@
-## Hey there 👋
+## 👋 Hey there 
 
 I'm Nasar, an undergrad student in Computer Science & Philsosphy at the University of Saskatchewan.
 
@@ -12,7 +12,7 @@ I enjoy building tools that truly help people especially in areas where progress
 * Developing NLP-based tools for administrative decision support
 * Fullstack web-applications for nonprofit organizations
 
----
+
 
 ## 🛠️ Tools & skills
 
