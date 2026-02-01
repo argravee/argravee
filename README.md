@@ -2,7 +2,7 @@
 
 I'm Nasar, an undergrad student in Computer Science & Philsosphy at the University of Saskatchewan.
 
-I enjoy building tools that genuinely help people, especially in areas constrained by institutional, political, and administrative complexity/inaction. I also love challenging myself with technically demanding and abstract systems.
+I enjoy building tools that help people, especially in areas constrained by institutional, political, and administrative complexity/inaction. I also love challenging myself with building technically demanding and abstract systems.
 
 
 ## 🔧 What I’m currently working on
