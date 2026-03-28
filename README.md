@@ -18,11 +18,11 @@ I enjoy building tools that help people, especially in areas constrained by inst
 
 **Languages**
 
-* Python, Javascript, SQL, Java
+* Python, Java, JavaScript, SQL
 
 **Backend & Systems**
 
-* FastAPI, Flask, REST APIs, MySQL
+* FastAPI, Flask, REST APIs, MySQL, Docker, GitHub Actions
 * JSON Schema, OpenAPI 3.1
 
 **Security & Privacy**
@@ -32,7 +32,7 @@ I enjoy building tools that help people, especially in areas constrained by inst
 
 **Frontend**
 
-* Tailwind CSS, Jinja, React
+* Tailwind CSS, Jinja, React, HTML
 
 
 
